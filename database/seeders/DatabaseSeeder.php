@@ -25,6 +25,7 @@ class DatabaseSeeder extends Seeder
             SubjectSeeder::class,
             TimeTableSeeder::class,
             ExamSeeder::class,
+            MarkSeeder::class,
         ]);
     }
 }
